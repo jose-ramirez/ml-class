@@ -1,0 +1,2 @@
+*)  Simplificar lo mas posible el contenido de este repo;
+    sino pasarlo a bitbucket.
